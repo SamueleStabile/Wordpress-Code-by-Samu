@@ -9,7 +9,7 @@
 **/
 
 function auto_date(){
-    return "<p>" . date('Y') . "</p>";
+    return date('Y');
 }
 
 add_shortcode('year', 'auto_date'); 
