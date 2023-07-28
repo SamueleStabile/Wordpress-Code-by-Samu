@@ -2,9 +2,9 @@
 /**
 * Plugin Name: Considera Year Shortcode
 * Plugin URI: https://considera.it/
-* Description: Makes available a shortcode that can be used to display the current year - "[year] is the shortcode to use"
+* Description: Makes available a shortcode [year] that can be used to display the current year - "[year] is the shortcode to use"
 * Version: 0.1
-* Author: Samuele Stabile
+* Author: Considera Team
 * Author URI: https://considera.it/
 **/
 
