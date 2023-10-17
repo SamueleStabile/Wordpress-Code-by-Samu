@@ -7,9 +7,10 @@
 * Author: Considera Team
 * Author URI: https://github.com/SamueleStabile/Wordpress-Code-by-Samu/tree/main/Current%20Year%20Shortcode%20by%20Considera
 **/
+if ( ! defined( 'ABSPATH' ) ) exit;
 
-function auto_date(){
+function considera_cys_date(){
     return date('Y');
 }
 
-add_shortcode('year', 'auto_date'); 
+add_shortcode('year', 'considera_cys_date'); 
